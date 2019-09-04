@@ -1,3 +1,3 @@
-# Here I store all the data structures that i tried to code
+# Here I store all the data structures that I tried to code
 
 
